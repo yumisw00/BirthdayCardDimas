@@ -1,6 +1,6 @@
 # Happy Birthday Card 🎂
 
-Project praktikum **Pemrograman Mobile Android**  
+Praktikum **Pemrograman Mobile Android**  
 Dibuat oleh **Dimas Dwi Fitrianto** (243307101) - Kelas 3D - Mata Kuliah Pemrogaman Mobile
 
 ---
@@ -25,3 +25,4 @@ Fitur:
    ```bash
 
    git clone https://github.com/yumisw00/BirthdayCardDimas
+
