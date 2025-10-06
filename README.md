@@ -23,4 +23,5 @@ Fitur:
 ## Cara Menjalankan
 1. Clone repository:
    ```bash
-   git clone https://github.com/yumisw00/HappyBirthdayCard
+
+   git clone https://github.com/yumisw00/BirthdayCardDimas
